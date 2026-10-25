@@ -1,0 +1,14 @@
+# Compiled bytecode
+out/
+*.class
+
+# Personal user drafts / runtime data
+drafts/
+
+# IDE / editor config
+.vscode/
+.idea/
+*.iml
+*.swp
+.DS_Store
+Thumbs.db
