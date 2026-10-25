@@ -2,7 +2,7 @@
 
 A Java 17 Swing and JDBC course project for writing personal diary entries, searching them, viewing mood statistics, exporting entries to text files, and backing up diary data.
 
-The project uses plain `javac` and `java`. It does not use Maven, Gradle, Spring, JavaFX, lambdas, streams, or Lombok.
+The project uses plain `javac` and `java`.
 
 ## Features
 
